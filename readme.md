@@ -75,7 +75,7 @@ keycloak.resource=spring-boot-client
 keycloak.public-client=false
 keycloak.bearer-only=false
 keycloak.principal-attribute=preferred_username
-keycloak.credentials.secret=L64Y6rfiEyN2H6QNySsKOuOifr8KATCe
+keycloak.credentials.secret=xxxxxxx
 
 # JSP
 spring.mvc.view.prefix=/WEB-INF/jsp/
